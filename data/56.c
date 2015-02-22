@@ -1,0 +1,2 @@
+#include <stdio.h>
+int main(void){int i=47750081;for(int i=0;i<23;i++){i-=33651311;}int f=10282880;for(int i=0;i<6;i++){f-=16286988<i?99655928:59006049>19430165?45586011:42958090;}printf("%d", f);return 0;}

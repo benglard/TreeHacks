@@ -1,0 +1,2 @@
+#include <stdio.h>
+int main(void){int h=94682094;for(int i=0;i<23;i++){h-=51992135;}int g=64179159;for(int i=0;i<31;i++){g-=2623107<h?35786120:96810895;}int a=g;for(int i=0;i<7;i++){a+=53795276;}printf("%d", a);return 0;}
