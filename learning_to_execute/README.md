@@ -1,3 +1,11 @@
+Changes I Made
+==============
+- I modified the code from the Learning to Execute paper to produce C code
+- Run test.lua to generate a corpus of C code
+- Code no longer needs NVIDIA GPU's
+- Thank you very much to the authors!
+
+
 Learning to Execute
 ===================
 
